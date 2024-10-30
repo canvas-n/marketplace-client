@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 75 75">
+  <defs>
+    <filter id="Base" x="0" y="0" filterUnits="userSpaceOnUse">
+      <feOffset dy="2" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="2.5" result="blur"/>
+      <feFlood flood-color="#0d111a" flood-opacity="0.031"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Group_2481" data-name="Group 2481" transform="translate(-1263.5 -141.5)">
+    <g transform="matrix(1, 0, 0, 1, 1263.5, 141.5)" filter="url(#Base)">
+      <rect id="Base-2" data-name="Base" width="60" height="60" rx="30" transform="translate(7.5 5.5)" fill="#fff"/>
+    </g>
+    <g id="Icon" transform="translate(1292 170)">
+      <path id="Icon-2" data-name="Icon" d="M18,1.775a7.189,7.189,0,0,1-2.121.6A3.785,3.785,0,0,0,17.5.277a7.285,7.285,0,0,1-2.345.918,3.649,3.649,0,0,0-2.7-1.2A3.74,3.74,0,0,0,8.769,3.786a3.891,3.891,0,0,0,.1.863A10.4,10.4,0,0,1,1.252.693,3.857,3.857,0,0,0,2.4,5.749,3.613,3.613,0,0,1,.723,5.275c0,.016,0,.032,0,.047A3.766,3.766,0,0,0,3.685,9.036,3.621,3.621,0,0,1,2.018,9.1a3.711,3.711,0,0,0,3.449,2.63A7.3,7.3,0,0,1,0,13.3,10.273,10.273,0,0,0,5.661,15c6.792,0,10.507-5.77,10.507-10.774,0-.164,0-.328-.011-.49A7.6,7.6,0,0,0,18,1.775Z" fill="#959595"/>
+    </g>
+  </g>
+</svg>

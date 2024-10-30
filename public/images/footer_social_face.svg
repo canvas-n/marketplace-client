@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 75 75">
+  <defs>
+    <filter id="Base" x="0" y="0" filterUnits="userSpaceOnUse">
+      <feOffset dy="2" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="2.5" result="blur"/>
+      <feFlood flood-color="#0d111a" flood-opacity="0.031"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Group_2482" data-name="Group 2482" transform="translate(-1343.5 -141.5)">
+    <g transform="matrix(1, 0, 0, 1, 1343.5, 141.5)" filter="url(#Base)">
+      <rect id="Base-2" data-name="Base" width="60" height="60" rx="30" transform="translate(7.5 5.5)" fill="#fff"/>
+    </g>
+    <g id="Icon" transform="translate(1377 168)">
+      <path id="Icon-2" data-name="Icon" d="M5.842,18V9.789H8.5l.395-3.2H5.842V4.547c0-.925.248-1.557,1.526-1.557H9V.125A20.41,20.41,0,0,0,6.625,0C4.269,0,2.663,1.495,2.663,4.234V6.6H0V9.8H2.663V18Z" fill="#959595"/>
+    </g>
+  </g>
+</svg>

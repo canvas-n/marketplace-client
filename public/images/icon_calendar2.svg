@@ -1,0 +1,3 @@
+<svg id="icon_calendar" xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 20 20">
+  <path id="calendar" d="M6,22H18a4,4,0,0,0,4-4V8a4,4,0,0,0-4-4H17V3a1,1,0,0,0-2,0V4H9V3A1,1,0,0,0,7,3V4H6A4,4,0,0,0,2,8V18A4,4,0,0,0,6,22ZM4,11H20v7a2,2,0,0,1-2,2H6a2,2,0,0,1-2-2Z" transform="translate(-2 -2)"/>
+</svg>

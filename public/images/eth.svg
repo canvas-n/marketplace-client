@@ -1,0 +1,11 @@
+<svg id="eth" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 21 21">
+  <circle id="Ellipse_145" data-name="Ellipse 145" cx="10.5" cy="10.5" r="10.5" fill="#3b6ad1"/>
+  <g id="eth-logo" transform="translate(5.75 2.993)">
+    <path id="Path_4285" data-name="Path 4285" d="M4.71,28.437V23.6L0,25.662Z" transform="translate(0 -17.592)" fill="#fff"/>
+    <path id="Path_4286" data-name="Path 4286" d="M5.157,5.677V0L.6,7.688Z" transform="translate(-0.447)" fill="#fff"/>
+    <path id="Path_4287" data-name="Path 4287" d="M19.7,0V5.677l4.659,2.037Z" transform="translate(-14.685)" fill="#fff"/>
+    <path id="Path_4288" data-name="Path 4288" d="M19.7,23.6v4.837l4.735-2.775Z" transform="translate(-14.685 -17.592)" fill="#fff"/>
+    <path id="Path_4289" data-name="Path 4289" d="M4.784,42.244V38.349L.1,35.6Z" transform="translate(-0.075 -26.537)" fill="#fff"/>
+    <path id="Path_4290" data-name="Path 4290" d="M19.7,42.244,24.41,35.6,19.7,38.349Z" transform="translate(-14.685 -26.537)" fill="#fff"/>
+  </g>
+</svg>

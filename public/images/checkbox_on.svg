@@ -1,0 +1,13 @@
+<svg id="checkbox_on" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="20" height="20" viewBox="0 0 20 20">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_751" data-name="Rectangle 751" width="14.869" height="10.043" fill="#fff"/>
+    </clipPath>
+  </defs>
+  <rect id="Rectangle_741" data-name="Rectangle 741" width="20" height="20"/>
+  <g id="Group_2010" data-name="Group 2010" transform="translate(2.565 4.978)">
+    <g id="Group_2009" data-name="Group 2009" transform="translate(0 0)" clip-path="url(#clip-path)">
+      <path id="Path_4193" data-name="Path 4193" d="M5.331,10.043A.5.5,0,0,1,4.977,9.9L.147,5.065a.5.5,0,0,1,.707-.707L5.331,8.836,14.016.147a.5.5,0,1,1,.707.707L5.685,9.9a.5.5,0,0,1-.354.146" transform="translate(0 0)" fill="#fff"/>
+    </g>
+  </g>
+</svg>
